@@ -7,8 +7,10 @@
 * Images  
   
 **Intro**
+
+In this p[roject grid-layout and @media were the main priorities while sizing text and photos were used in the final stages to correct everything to the design Figma.]
   
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+ 
   
 **Figma**  
   
