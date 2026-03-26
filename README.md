@@ -17,7 +17,7 @@ System Requirements:
 
 Any desktop, laptop, or phone will do.
 
-GitHub Link: https://github.com/gster1513/se_project_spots
+GitHub Link: https://gster1513.github.io/se_project_spots/ 
 
 Video: https://drive.google.com/file/d/12TlncDNB_SXh7EzOZNfSy1BcPA0ZjotO/view?usp=sharing 
 
