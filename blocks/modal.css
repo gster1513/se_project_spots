@@ -10,7 +10,7 @@
   visibility: hidden;
 }
 
-.modal_opened {
+.modal_is-opened {
   visibility: visible;
   opacity: 1;
 }
