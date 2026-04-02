@@ -10,7 +10,7 @@ editModalCloseButton.addEventListener("click", function() {
   editProfileModal.classList.remove("modal_is-opened");
 });
 
-const postAddBtn = document.querySelector(".post__add-btn");
+const postAddBtn = document.querySelector(".profile__add-btn");
 const newPostModal = document.querySelector("#new-post-modal");
 const postModalCloseButton = newPostModal.querySelector(".modal__close-btn");
 
