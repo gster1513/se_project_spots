@@ -1,5 +1,8 @@
 .modal {
   background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: fixed;
   width: 100%;
   height: 100%;
@@ -26,9 +29,6 @@
   position: fixed;
   border-radius: 8px;
   box-sizing: border-box;
-  left: 50%;
-  top: 81px;
-  transform: translate(-50%);
 }
 
 .modal__container_type_preview {
