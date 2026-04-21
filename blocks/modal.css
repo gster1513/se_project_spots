@@ -9,7 +9,9 @@
   top: 0;
   left: 0;
   opacity: 0;
-  transition: visibility 0.3s, opacity 0.3s ease-in;
+  transition:
+    visibility 0.3s,
+    opacity 0.3s ease-in;
   visibility: hidden;
 }
 
@@ -112,7 +114,6 @@
   opacity: 30%;
 }
 
-
 .modal__input_type_error {
   border: 1px solid rgba(255, 0, 0, 0.6);
 }
@@ -143,7 +144,7 @@
 }
 
 .modal__submit-btn_disabled {
-  background-color:#212121;
+  background-color: #212121;
   opacity: 50%;
   color: #7f7f7f;
   cursor: not-allowed;
